@@ -1,5 +1,5 @@
 - I am @bernhard759
-- I am programming some stuff in python and javascript.
+- I am programming some stuff in python and javascript
 
 
 <!---
